@@ -1,0 +1,2 @@
+Версия java corretto-18 Amazon Corretto 18.0.2 SDK default
+Bundled (Maven 3) Version: 3.9.9
