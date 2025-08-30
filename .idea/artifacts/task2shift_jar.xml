@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="task2shift:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task2shift_jar</output-path>
+    <root id="archive" name="task2shift.jar">
+      <element id="module-output" name="task2shift" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
